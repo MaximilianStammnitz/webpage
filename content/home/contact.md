@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: maximilian.stammnitz@crg.eu
+  # phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Carrer del Dr. Aiguader 88
+    city: Barcelona
+    region: CAT
+    postcode: '08003'
+    country: Spain
+    country_code: ES
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '2.1918187'
+    longitude: '41.3853738'
+  directions: Enter PRBB Building 1 and take the elevator to Office 540 on Floor 5
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
