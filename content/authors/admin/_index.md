@@ -70,10 +70,8 @@ email: 'mailto:maximilian.stammnitz@crg.eu'
 highlight_name: true
 ---
 
-Max Stammnitz works as a Postdoc Researcher at the Centre for Genomic Regulation (CRG) in Barcelona.
+Max works as a Postdoc Researcher at the Centre for Genomic Regulation (CRG) in Barcelona.
 
 He has recently completed his PhD studies with Elizabeth Murchison at the University of Cambridge. Together with a multidisciplinary team of ecologists, cancer geneticists and computer scientists between the UK and Australia, they have taken a leading role in efforts to help save the Tasmanian devil, world’s largest carnivorous marsupial, from outbreaks of two transmissible facial tumour diseases.
-
-Prior to his MPhil and PhD in Cambridge, Max completed his Biology undergraduate training in Germany. He enjoys working at the interface of research and society, and was a founder of “PuntSeq”[https://www.puntseq.co.uk/] – a widely-publicised citizen science and media initiative with the aim of monitoring bacterial contamination in the River Cam by portable DNA sequencing devices.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
