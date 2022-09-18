@@ -70,7 +70,7 @@ email: 'mailto:maximilian.stammnitz@crg.eu'
 highlight_name: true
 ---
 
-Hola! I am a Postdoc in Ben Lehner's [group](https://www.crg.eu/ben_lehner) at the Centre for Genomic Regulation (CRG) in Barcelona.
+Hola! I am a Postdoc in [Ben Lehner's lab](https://www.crg.eu/ben_lehner) at the Centre for Genomic Regulation (CRG) in Barcelona.
 
 I have recently completed my PhD with [Elizabeth Murchison](https://www.tcg.vet.cam.ac.uk/) at the University of Cambridge, UK. Together with a multidisciplinary team of ecologists, cancer geneticists and computer scientists between Australia and England, I have led efforts to help save the Tasmanian devil, world’s largest carnivorous marsupial, from outbreaks of [transmissible tumour diseases](https://www.cam.ac.uk/research/news/human-anti-cancer-drugs-could-help-treat-transmissible-cancers-in-tasmanian-devils). I am also a founder of [PuntSeq](https://www.puntseq.co.uk/) – a citizen science initiative with the aim of monitoring bacterial contamination in freshwaters by portable DNA analysis devices.
 
