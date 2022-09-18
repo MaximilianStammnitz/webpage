@@ -20,7 +20,7 @@ bio: My research involves unconvential model organisms and experimental approach
 interests:
   - Deep Mutational Scanning
   - Transmissible Cancers
-  - Bioinformatics
+  - Genetics
 
 # Education to show in About widget
 education:
