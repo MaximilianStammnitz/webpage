@@ -27,6 +27,21 @@ marketing:
     google: ''
     baidu: ''
 
+# Contact (edit or remove options as required)
+
+email: maximilian.stammnitz [at] crg.eu
+# phone: 888 888 88 88
+address:
+  street: PRBB/CRG, Carrer del Dr. Aiguader 88"
+  city: Barcelona
+  #region: CA
+  postcode: 08003
+  country: Spain
+  country_code: ES
+coordinates:
+  latitude: '41.3853738'
+  longitude: '2.1918187'
+
 # Site header
 
 header:
