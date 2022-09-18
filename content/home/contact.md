@@ -1,5 +1,6 @@
 ---
 # An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -14,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+  
   # Email form provider
   form:
     provider: netlify
@@ -23,35 +24,7 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-
-  # Contact details (edit or remove options as required)
-  email: maximilian.stammnitz@crg.eu
-  # phone: 888 888 88 88
-  address:
-    street: Carrer del Dr. Aiguader 88
-    city: Barcelona
-    region: CAT
-    postcode: '08003'
-    country: Spain
-    country_code: ES
-  coordinates:
-    latitude: '2.1918187'
-    longitude: '41.3853738'
-  directions: Enter PRBB Building 1 and take the elevator to Office 540 on Floor 5
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
+  
 design:
   columns: '2'
 ---
