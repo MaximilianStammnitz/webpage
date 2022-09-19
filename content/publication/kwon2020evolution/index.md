@@ -33,7 +33,7 @@ authors:
 - Elizabeth Murchison
 
 date: "2020-11-24T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1371/journal.pbio.3000926"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2020-11-24T00:00:00Z"
