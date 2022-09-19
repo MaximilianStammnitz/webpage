@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Max Stammnitz # Website name
-baseURL: 'https://maxstammnitz.netlify.app/' # Website URL
+baseurl: 'https://maxstammnitz.netlify.app/' # Website URL
 copyright: '© 2022 Max Stammnitz' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -22,12 +22,12 @@ removePathAccents: true
 
 module:
   imports:
-#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-#   - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy    
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
 ## ADVANCED
