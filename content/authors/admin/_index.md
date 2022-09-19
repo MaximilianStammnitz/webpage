@@ -67,7 +67,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Hola! I am a Postdoc Biologist in [Ben Lehner's lab](https://www.crg.eu/ben_lehner) at the Centre for Genomic Regulation.
