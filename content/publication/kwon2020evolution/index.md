@@ -8,7 +8,7 @@ authors:
 - Young Mi Kwon
 - Kevin Gori
 - Naomi Park
-– Nicole Potts
+- Nicole Potts
 - Kate Swift
 - Jinhong Wang
 - admin
