@@ -64,10 +64,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mailto:maximilian.stammnitz@crg.eu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Hola! I am a Postdoc Biologist in [Ben Lehner's lab](https://www.crg.eu/ben_lehner) at the Centre for Genomic Regulation.
