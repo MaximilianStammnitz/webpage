@@ -6,7 +6,7 @@ title: "Evolution and Lineage Dynamics of a Transmissible Cancer in Tasmanian de
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Young Mi Kwon
-- Kevin Gori1
+- Kevin Gori
 - Naomi Park
 – Nicole Potts
 - Kate Swift
